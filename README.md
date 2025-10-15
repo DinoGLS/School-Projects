@@ -42,4 +42,4 @@ I’m currently working on my personal project App Track Muscu, a fitness tracki
 
 ---
 
-> 💬 *"La sécurité, c’est avant tout une question de rigueur, d’apprentissage et de passion."*
+> 💬 *"Building skills, one project at a time."*
