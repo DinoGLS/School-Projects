@@ -29,8 +29,8 @@ I’m currently working on my personal project App Track Muscu, a fitness tracki
 ---
 
 ## Projects
--  **App Track Muscu** : AI-based fitness trcaking and performance analysis app 
--  **School Projects** : Network setup,Linux configuration and system management labs
+-  **App Track Muscu** : AI-based fitness tracking and performance analysis app 
+-  **School Projects** : Network setup, Linux configuration and system management labs
 
 ---
 
