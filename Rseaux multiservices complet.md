@@ -15,7 +15,7 @@ Ceci est un réseau avec attribution de DHCP/IP/DNS/HTTP par server, routage int
 + Server DHCP 1 (Actif) Server DHCP 2 (Actif) Redondance
 + Server DNS/HTTP (Actif)
 ! SNMP : En cours de configuration
-! ACLS : Pas configurer
+! ACLS : En cours de configuration
 ~~~~
 
 ***Je vous met à disposition ma pièce jointe apk du nom de projet intermédaire ou j'apporterais des modifications au fur et à mesure.***
