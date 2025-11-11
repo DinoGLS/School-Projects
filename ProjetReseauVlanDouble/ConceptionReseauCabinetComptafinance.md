@@ -7,7 +7,7 @@ Mettre en place un réseau avec deux VLAN interconnectés, un serveur DHCP, une 
 ---
 
 ## 2. Schéma du réseau
-![Schéma réseau](Configres.png)
+![Schéma réseau](ImageReseauVlanDouble/Configres.png)
 
 ---
 
@@ -75,7 +75,7 @@ write memory
 
 2. *Creation d'une pool pour le Vlan 3*
 
-![Configuration Pool Vlan 3](CreationPoolVlan3.png)
+![Configuration Pool Vlan 3](ImageReseauVlanDouble/CreationPoolVlan3.png)
 
 ### 🔹 Configuration demande d'IP
 
@@ -92,18 +92,18 @@ exit
 ```
 ###  💻 Test de réussite
 
-:heavy_check_mark: DHCP/IP Vlan 3 ![PC1](TestDHCPVlan3.png) 
-![PC2](Vlan3.png)
-![PC3](Vlan.3.png)
+:heavy_check_mark: DHCP/IP Vlan 3 ![PC1](ImageReseauVlanDouble/TestDHCPVlan3.png) 
+![PC2](ImageReseauVlanDouble/Vlan3.png)
+![PC3](ImageReseauVlanDouble/Vlan.3.png)
 
 :heavy_check_mark: DHCP/IP Vlan 2 
-![PC1](TestDHCPVlan2.png)
-![PC2](Vlan2PC.png)
+![PC1](ImageReseauVlanDouble/TestDHCPVlan2.png)
+![PC2](ImageReseauVlanDouble/Vlan2PC.png)
 
 :heavy_check_mark: Ping interVlan 2↔3
-![PingVlan3](Pingvlan3.png)
-![PingVlan2](pingvlan2.png)
+![PingVlan3](ImageReseauVlanDouble/Pingvlan3.png)
+![PingVlan2](ImageReseauVlanDouble/pingvlan2.png)
 
-![Courrier interVlan](Courrierintervlan.png)
+![Courrier interVlan](ImageReseauVlanDouble/Courrierintervlan.png)
 
 
