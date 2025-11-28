@@ -173,7 +173,7 @@ ip access-list extended INTER_VLAN_BLOCK
  ![ConfigACL](ImageReseauVlanAvanc/ACLLIST.png)
 ### 🔹 Configuration SNMP
 
-*Vu que Cisco Packet Tracer reste limité je ne vais pa spouvoir limité l'acces au SNMP et avoir un agent SNMP comme je l'aurai eu en vrai*
+*Vu que Cisco Packet Tracer reste limité je ne vais pas pouvoir limité l'acces au SNMP et avoir un agent SNMP comme je l'aurai eu en vrai*
 
 ```bash
 conf t 
