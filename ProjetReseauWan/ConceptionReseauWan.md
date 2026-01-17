@@ -509,7 +509,7 @@ Avant arret d'un des server :
 
 Apres la reprise totale des attributions par l'autre server : 
 
-![PCVlan3](ImageResWan/DHCPvlan3.png)
+![PCVlan3](ImageResWan/DHCP2vlan3.png)
 ___
 **Test et configuration HTTP/DNS**
 ___
