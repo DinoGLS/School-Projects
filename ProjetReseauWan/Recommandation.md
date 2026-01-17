@@ -17,14 +17,14 @@
 ​
 ​
 
-## Supervision et logs
+## III Supervision et logs
 
 - Intégrer un serveur Syslog centralisé pour les logs des routeurs/switches en plus de SNMP.
   
 - Ajouter des tableaux de bord (Grafana, LibreNMS, etc.) pour visualiser l’état du réseau.
 ​
 
-## Évolution vers un environnement réel/entreprise
+## IV Évolution vers un environnement réel/entreprise
 
 - Mettre en place un pare-feu entre LAN et WAN/Internet (zone DMZ pour les serveurs HTTP/DNS publics).
 ​
