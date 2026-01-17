@@ -173,7 +173,7 @@ ip access-list extended INTER_VLAN_BLOCK
  ![ConfigACL](ImageReseauVlanAvanc/ACLLIST.png)
 ### 🔹 Configuration SNMP
 
-*Vu que Cisco Packet Tracer reste limité je ne vais pa spouvoir limité l'acces au SNMP et avoir un agent SNMP comme je l'aurai eu en vrai*
+*Vu que Cisco Packet Tracer reste limité je ne vais pas pouvoir limité l'acces au SNMP et avoir un agent SNMP comme je l'aurai eu en vrai*
 
 ```bash
 conf t 
@@ -191,8 +191,8 @@ ___
 **Attribution d'IP par les servers DHCP**
 ___
 
- DHCP/IP Vlan 3 ![Vlan3](ImageReseauVlanAvanc/DHCPVlan3.png) 
- DHCP/IP Vlan 2 ![Vlan2](ImageReseauVlanAvanc/DHCPVlan2.png)
+ DHCP/IP Vlan 3 ![Vlan3](ImageReseauVlanAvanc/DHCPVLAN3.png) 
+ DHCP/IP Vlan 2 ![Vlan2](ImageReseauVlanAvanc/DHCPVLAN2.png)
  DHCP/IP Vlan 4 ![Vlan4](ImageReseauVlanAvanc/DHCPVLAN4.png)
 ___
 **Relay des servers DHCP**
