@@ -34,11 +34,11 @@ I’m currently working on my personal project App Track Muscu, a fitness tracki
 
 ---
 
-## 📫 Contact 
-📍 Paris
-✉️ **garlenscharles10@gmail.com**  
-💼 [Mon LinkedIn](https://www.linkedin.com/in/garlens-charles-29a6b3351/)  
-📂 [Mon portfolio GitHub](https://github.com/ton-nom-utilisateur?tab=repositories)
+## Contact 
+Paris
+**garlenscharles10@gmail.com**  
+[Mon LinkedIn](https://www.linkedin.com/in/garlens-charles-29a6b3351/)  
+
 
 ---
 
