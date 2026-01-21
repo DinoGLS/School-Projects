@@ -1,5 +1,5 @@
 
-# 🧠 Guide de configuration réseau – Double VLAN
+# Guide de configuration réseau – Double VLAN
 
 ### 1. Objectif du projet
 *Mettre en place le réseau des trois nouveaux département de l'entreprise StratAdvise avec trois VLAN, deux serveur DHCP qui se relaient, un server SNMP et son ordinateur de supervision, un server HTTP/DNS pour les site web de l'entreprise, une imprimante et des postes clients filaires et sans fil pour l'entreprise StratAdvise.*
