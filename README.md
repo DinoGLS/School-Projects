@@ -17,7 +17,7 @@ I’m currently working on my personal project App Track Muscu, a fitness tracki
 
 ---
 
-## 🛠️ Tech Stack (in learning)
+## Tech Stack (in learning)
 | Category | Tools/Technologies |
 |----------|------------------------|
 | Networking | Cisco Packet Tracer, adressage IP, routage, VLAN |
